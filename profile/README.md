@@ -22,9 +22,9 @@ If you're not part of our Twitter conversations, please[ join](https://twitter.c
 
 You may also join us in our Github [discussions](https://github.com/orgs/Community-AI-VC/discussions) 👩‍💻 
 
-## main repo
+## Code (MIT Licensed)
 
-[Code](https://github.com/Community-AI-VC/main)
+[Main](https://github.com/Community-AI-VC/main)
 
 
 
