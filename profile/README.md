@@ -14,13 +14,9 @@ Regardless, we're all united in our curiosity to see how the new AI (mostly LLM 
 
 We are simply driven to see what's possible.
 
-## Code (MIT Licensed)
+## Code
 
 [main project](https://github.com/Community-AI-VC/main)
-
-## Simply stated
-
-\#ai + \#dao + \#vc = ??
 
 If you're not part of our Twitter conversations, please[ join](https://twitter.com/i/communities/1669755222942691328) us 🍿
 
