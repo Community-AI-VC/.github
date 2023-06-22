@@ -12,7 +12,7 @@ Some may not be any of the above 🙋‍♀️🙋‍♀️🙋‍♀️🙋‍�
 
 Regardless, we're all united in our curiosity to see how the new AI (mostly LLM based) can contribute to the process of making VC funding transparent, data-driven and equitable.
 
-We are simply driven to see what's possible 🌈 
+We are simply driven to see what's possible.
 
 ## Code (MIT Licensed)
 
