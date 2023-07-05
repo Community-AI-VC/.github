@@ -1,18 +1,16 @@
-# Community AI VC
+# AI VC
 
 ## Hi there 👋
 
-Some of us may have pitched to VCs 🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️
+Some of us may have pitched to VCs 🙋‍♀️
 
-Some of us may have received funding from VCs 🙋‍♀️🙋‍♀️
+Some of us may have received funding from VCs 🙋‍♀️
 
 Some of us may be VCs themselves (or angel investors) 🙋‍♀️
 
-Some may not be any of the above 🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️🙋‍♀️
+Some may not be any of the above 🙋‍♀️
 
-Regardless, we're all united in our curiosity to see how the new AI (mostly LLM based) and DAO (decentralized autonomous org) tech from the Crypto world can contribute to the process of making VC funding transparent, community-driven and equitable.
-
-We are driven to explore AI and DAO (decentralized autonomous org) for a new kind of Community AI Fund.
+Regardless, we're all united in our curiosity to see how the new AI (mostly LLM based) can contribute to the process of making VC funding process better for founders and investors alike.
 
 ## Code
 
